@@ -35,7 +35,7 @@ The following chart shows the length of time of every bike ride during the month
 
 ##### Who is using the bikes?
 
-The following charts illustrate that men are by far the most common users of Citi Bike. 
+The following charts illustrate that men are by far the most common users of Citi Bike. Furthermore the most frequent day of the week that men ride is Thursday. 
 
 Color Key For Gender
 ![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Screen%20Shot%202021-02-28%20at%2010.44.52%20PM.png)
@@ -45,6 +45,8 @@ Color Key For Gender
 ![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Screen%20Shot%202021-02-28%20at%2010.59.15%20PM.png)
 ![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Trips%20By%20Weekday%20Per%20Hour.png)
 ![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Trips%20by%20Duration.png)
+![gender](https://github.com/Solrys/bikeshare/blob/main/Screen%20Shot%202021-03-01%20at%201.11.01%20AM.png)
+
 
 
 
