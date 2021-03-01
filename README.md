@@ -52,7 +52,7 @@ Color Key For Gender
 These two visualizations show the more congested starting and ending locations. The first thing to note is that most rides start in the most populous areas in mid and lower Manhattan. Second, the ending locations are also in those same populated areas. 
 
 ![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Screen%20Shot%202021-02-28%20at%2010.43.56%20PM.png)
-!
+![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Screen%20Shot%202021-02-28%20at%2010.44.14%20PM.png)
 
 #### Summary
 Key Takaways are as follows;
