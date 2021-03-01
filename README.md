@@ -14,9 +14,10 @@ Since August is a beautiful time of the year to rent a bike, we want to use this
 
 ## Questions
 * How long do users bike for?
+* When are users using the bikes?
 * Who is using the bikes?
 * Where are they biking to and from?
-* When are users using the bikes?
+
  
 
 
@@ -27,6 +28,26 @@ Since August is a beautiful time of the year to rent a bike, we want to use this
 
 The following chart shows the length of time of every bike ride during the month of August in 2019. Wee can see that riders typically like to bike between 2 and 15 minutes.
 ![long](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Screen%20Shot%202021-02-28%20at%2010.58.42%20PM.png)
+
+##### When are the bikes being used?
+![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Screen%20Shot%202021-02-28%20at%2010.43.35%20PM.png)
+
+
+##### Who is using the bikes?
+
+The following charts illustrate that men are by far the most common users of Citi Bike. 
+
+Color Key For Gender
+![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Screen%20Shot%202021-02-28%20at%2010.44.52%20PM.png)
+![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Screen%20Shot%202021-02-28%20at%2010.44.59%20PM.png)
+
+
+![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Screen%20Shot%202021-02-28%20at%2010.59.15%20PM.png)
+![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Trips%20By%20Weekday%20Per%20Hour.png)
+![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Trips%20by%20Duration.png)
+
+
+
 
 
 
