@@ -13,11 +13,20 @@ We will be using the analytic tool Tableau for this project.
 Since August is a beautiful time of the year to rent a bike, we want to use this data as a starting point to determine how many rides we could expect in the city of Des Moines.
 
 ### Questions
-* 
+* How long do users bike for?
+* Who is using the bikes?
+* Where are they biking to and from?
+* When are users using the bikes?
+ 
 
 
 
-#### Results
+### Results
+
+##### How long do users bike for?
+
+The following chart shows the length of time of every bike ride during the month of August in 2019. Wee can see that riders typically like to bike between 2 and 15 minutes.
+![
 
 
 
