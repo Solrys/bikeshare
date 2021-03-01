@@ -30,6 +30,7 @@ The following chart shows the length of time of every bike ride during the month
 ![long](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Screen%20Shot%202021-02-28%20at%2010.58.42%20PM.png)
 
 ##### When are the bikes being used?
+The following chart clearly illustrates when the bikes are used the most, and when they are not actively being used. This can help us determine which hours are good for maintenance. Based on the chart the best hours to perform maintenance is 2:00 to 4:00 am. 
 ![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Screen%20Shot%202021-02-28%20at%2010.43.35%20PM.png)
 
 
