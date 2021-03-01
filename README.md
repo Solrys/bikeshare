@@ -48,6 +48,18 @@ Color Key For Gender
 ![gender](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Trips%20by%20Duration.png)
 ![gender](https://github.com/Solrys/bikeshare/blob/main/Screen%20Shot%202021-03-01%20at%201.11.01%20AM.png)
 
+##### Where are they biking to and from?
+These two visualizations show the more congested starting and ending locations. The first thing to note is that most rides start in the most populous areas in mid and lower Manhattan. Second, the ending locations are also in those same populated areas. 
+
+#### Summary
+Key Takaways are as follows;
+The predominant users are males in their 20s. This information could be useful for maketing. 
+Most of the rides are short and happen in the city center. Bikes that end up in less popular areas should be redistributed to the center so that the supply can meet the demand. 
+Thursday is the most popular day for city bikes, marketing could offer incentives or promotions on the less active days
+The least active hours are 2-4am. Those hours would be optimal for bike repairs or redistrubution towards the city center. 
+
+
+
 
 
 
