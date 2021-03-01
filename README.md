@@ -26,7 +26,7 @@ Since August is a beautiful time of the year to rent a bike, we want to use this
 ##### How long do users bike for?
 
 The following chart shows the length of time of every bike ride during the month of August in 2019. Wee can see that riders typically like to bike between 2 and 15 minutes.
-![long]https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Screen%20Shot%202021-02-28%20at%2010.58.42%20PM.png
+![long](https://github.com/Solrys/bikeshare/blob/main/TABLEAU%20VISUALS/Screen%20Shot%202021-02-28%20at%2010.58.42%20PM.png)
 
 
 
