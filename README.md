@@ -56,10 +56,17 @@ These two visualizations show the more congested starting and ending locations. 
 
 #### Summary
 Key Takaways are as follows;
-The predominant users are males in their 20s. This information could be useful for maketing. 
-Most of the rides are short and happen in the city center. Bikes that end up in less popular areas should be redistributed to the center so that the supply can meet the demand. 
+The predominant users are males in their 20s with anual subscriptions. This information could be useful for maketing. 
+Most of the rides are short and happen in the city center. Possibly bikeshare users are using citibike for commutes or daily excersize. 
+When planning to create a similar business model in Des Moines this information will help determine who to market to and how to set up the bikes as well when to schedule repairs.
+Bikes that end up in less popular areas should be redistributed to the center so that the supply can meet the demand. 
 Thursday is the most popular day for city bikes, marketing could offer incentives or promotions on the less active days
 The least active hours are 2-4am. Those hours would be optimal for bike repairs or redistrubution towards the city center. 
+
+Moving forward I would look into how to engage women as well as figuring out how to engage users on the less popular days.
+
+Other data that could be useful is finding out how many users are riding in pairs or with family so as to maybe offer family or household subscriptions. 
+
 
 
 
