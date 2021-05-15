@@ -67,6 +67,7 @@ Moving forward I would look into how to engage women as well as figuring out how
 
 Other data that could be useful is finding out how many users are riding in pairs or with family so as to maybe offer family or household subscriptions. 
 
+https://public.tableau.com/profile/leora.tal3580#!/vizhome/citibikevisuals/Customers?publish=yes
 
 
 
